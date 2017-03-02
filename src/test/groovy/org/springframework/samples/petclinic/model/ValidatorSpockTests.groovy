@@ -56,7 +56,6 @@ public class ValidatorSpockTests extends Specification {
 	  
 	  then:
 	  person.firstName==null;
-      
 	}
 	
 	// 3. TODO: validate a against a valid first name (non-empty, non-null value).
